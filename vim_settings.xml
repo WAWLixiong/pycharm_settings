@@ -189,13 +189,6 @@
       <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" timestamp="1586011137151">
         <mark key="'" line="320" column="4" />
       </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/threading_test.py" timestamp="1585835867040">
-        <mark key="'" line="28" column="24" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="29" column="9" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="418" column="24" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/685819689/threadpool.py" />

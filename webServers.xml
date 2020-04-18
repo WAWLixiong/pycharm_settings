@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="aa6a78cd-d2a9-46cb-84f5-5f4dd1df07ee" name="root@47.96.156.199:22 password">
-        <fileTransfer rootFolder="/home/zzlion/projects/collectors" accessType="SFTP" host="47.96.156.199" port="22" sshConfigId="16ecd22d-e4ff-4b9d-98e0-5a760bc5095c" sshConfig="root@47.96.156.199:22 password" />
+      <webServer id="3f9ebbfd-2364-4d0a-bf66-cd5ef58a3e73" name="root@47.96.156.199:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="47.96.156.199" port="22" sshConfigId="419e8348-a4c4-4068-ac22-206764890334" sshConfig="root@47.96.156.199:22 agent" authAgent="true" />
       </webServer>
     </option>
   </component>
