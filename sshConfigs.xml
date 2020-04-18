@@ -1,10 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="47.96.156.199" id="686a1396-cbda-4260-bbed-d5b4ca38322e" port="22" customName="collectors" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="47.96.156.199" id="87586eec-a4ef-442b-8a4b-de6d4696f72e" port="22" customName="tk-learn-2020" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="47.96.156.199" id="f5409003-2135-40d8-a50f-27ce2775671c" port="22" customName="my_web" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="39.107.140.104" id="e4397549-1208-4f2e-a05e-79f7ba9598b2" port="22" customName="root@39.107.140.104:22" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="47.96.156.199" id="16ecd22d-e4ff-4b9d-98e0-5a760bc5095c" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>

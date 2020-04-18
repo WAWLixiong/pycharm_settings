@@ -1,28 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="85461717-fdea-4253-bcd7-7ca889730b11" name="collectors" url="http://47.96.156.199">
-        <fileTransfer host="47.96.156.199" port="22" rootFolder="/root" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="405aee4a-72f2-427d-a138-8a7dc9264bf1" name="tk-learn-2020" url="http:///">
-        <fileTransfer host="47.96.156.199" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="0312894c-f461-47ca-abfa-a0f1cd2e1faf" name="my_web" url="http:///">
-        <fileTransfer host="47.96.156.199" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="842bbf46-a0b0-4bc0-948b-1f955a0df7a3" name="root@39.107.140.104:22" url="http:///">
-        <fileTransfer host="39.107.140.104" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+      <webServer id="aa6a78cd-d2a9-46cb-84f5-5f4dd1df07ee" name="root@47.96.156.199:22 password">
+        <fileTransfer accessType="SFTP" host="47.96.156.199" port="22" sshConfigId="16ecd22d-e4ff-4b9d-98e0-5a760bc5095c" sshConfig="root@47.96.156.199:22 password" />
       </webServer>
     </option>
   </component>
