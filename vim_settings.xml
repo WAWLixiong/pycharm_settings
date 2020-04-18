@@ -72,16 +72,31 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/projects/collectors/learn_python/test_env.py" timestamp="1587194937121">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="9" />
+      <file name="E:/projects/collectors/learn_python/test_env.py" timestamp="1587201843640">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="/start_script.py" timestamp="1587045784588">
         <mark key="[" line="0" column="0" />
