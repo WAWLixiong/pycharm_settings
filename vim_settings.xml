@@ -77,11 +77,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/projects/collectors/learn_python/test_env.py" timestamp="1587045627196">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
+      <file name="E:/projects/collectors/learn_python/test_env.py" timestamp="1587194937121">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="/start_script.py" timestamp="1587045784588">
         <mark key="[" line="0" column="0" />
@@ -288,7 +288,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Im5hbWUiCg==</text>
+        <text>print('hi')</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -300,31 +300,31 @@
         <text>num_worker_threads</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Im5hbWUiCg==</text>
+        <text>print('hi')</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Im5hbWUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHEgPSBxdWV1ZS5RdWV1ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHEgPSBxdWV1ZS5RdWV1ZSgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
