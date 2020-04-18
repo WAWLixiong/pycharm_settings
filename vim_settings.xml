@@ -1,0 +1,352 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDx3aGlsZVw+</entry>
+        <entry encoding="base64">XDx0cnlcPg==</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxyZWFkeVw+</entry>
+        <entry encoding="base64">XDxBd2FpdGFibGVcPg==</entry>
+        <entry>def create_task</entry>
+        <entry>call_soon_thread</entry>
+        <entry encoding="base64">XDxfX3NjaGVkdWxlX2NhbGxiYWNrc1w+</entry>
+        <entry encoding="base64">XDxfX3N0ZXBcPg==</entry>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry encoding="base64">XDxfd2FrZV91cF9maXJzdFw+</entry>
+        <entry encoding="base64">XDx3YXJuaW5nc1w+</entry>
+        <entry encoding="base64">XDxfY2FjaGVcPg==</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxwcm9wYWdhdGVcPg==</entry>
+        <entry>\/</entry>
+        <entry encoding="base64">XDxhZGRcPg==</entry>
+        <entry encoding="base64">XDxkdW1wXD4=</entry>
+        <entry encoding="base64">XDxfdGFyZ2V0XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>W</entry>
+        <entry>g</entry>
+        <entry>qw:q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>qw</entry>
+        <entry encoding="base64">JzwsJz5zL1wvLy4vZw==</entry>
+        <entry>we</entry>
+        <entry>wq</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="E:/projects/collectors/learn_python/test_env.py" timestamp="1587045627196">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
+      <file name="/start_script.py" timestamp="1587045784588">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/projects/collectors/.env" timestamp="1587045341795">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587045765961">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/projects/collectors/.idea/httpRequests/http-requests-log.http" timestamp="1587044930379">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1586003744358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" timestamp="1586002690988">
+        <mark key="'" line="30" column="12" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="8" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="31" column="8" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition_graceful.py" timestamp="1585995156641">
+        <mark key="'" line="28" column="15" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_semaphore.py" timestamp="1586006998011">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/typing.py" timestamp="1586009778430">
+        <mark key="'" line="358" column="0" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_priority_queue.py" timestamp="1586009935040">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" timestamp="1586002742378">
+        <mark key="'" line="783" column="13" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_rlock.py" timestamp="1585837913831">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/lock_test.py" timestamp="1585836853564">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="25" column="6" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_event.py" timestamp="1586007669759">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_without_lock_but_acquire.py" timestamp="1585996701813">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/dataclasses.py" timestamp="1586009972876">
+        <mark key="'" line="951" column="15" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_queue.py" timestamp="1586011119309">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" timestamp="1586011137151">
+        <mark key="'" line="320" column="4" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/threading_test.py" timestamp="1585835867040">
+        <mark key="'" line="28" column="24" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="29" column="9" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="418" column="24" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/685819689/threadpool.py" />
+      <jump line="255" column="13" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/685819689/threadpool.py" />
+      <jump line="4" column="12" filename="E:/tk-learn-2020/pa/lx/chapter11/concurrent_futures.py" />
+      <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/concurrent_futures.py" />
+      <jump line="90" column="0" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/concurrent_futures.py" />
+      <jump line="42" column="20" filename="E:/tk-learn-2020/pa/lx/chapter11/multiprocess_test.py" />
+      <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/multiprocess_test.py" />
+      <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/progress_queue.py" />
+      <jump line="72" column="19" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/process_queue.py" />
+      <jump line="44" column="21" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/multiprocess_test.py" />
+      <jump line="6" column="16" filename="E:/tk-learn-2020/pa/lx/chapter11/progress_test.py" />
+      <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/progress_test.py" />
+      <jump line="19" column="4" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/process_test.py" />
+      <jump line="18" column="8" filename="E:/projects/collectors/lean_python/lixiong/learn_pandas/learn_merge/__init__.py" />
+      <jump line="1" column="48" filename="E:/projects/collectors/lean_python/lixiong/learn_celery/get_start/__init__.py" />
+      <jump line="3" column="37" filename="E:/projects/collectors/lean_python/lixiong/learn_celery/get_start/__init__.py" />
+      <jump line="6" column="0" filename="E:/projects/collectors/lean_python/lixiong/learn_celery/base_config.py" />
+      <jump line="6" column="16" filename="E:/projects/collectors/lean_python/lixiong/learn_celery/get_start/celeryconfig.py" />
+      <jump line="20" column="25" filename="E:/projects/collectors/lean_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="11" column="9" filename="E:/projects/collectors/lean_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="3" column="24" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/project/celery/__init__.py" />
+      <jump line="1" column="16" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/celeryconfig.py" />
+      <jump line="0" column="17" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/base_config.py" />
+      <jump line="9" column="6" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/project/celery.py" />
+      <jump line="229" column="8" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/685819689/celery/app/base.py" />
+      <jump line="10" column="8" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task.py" />
+      <jump line="1" column="64" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task.py" />
+      <jump line="9" column="10" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="17" column="13" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="18" column="29" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="2" column="41" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="115" column="20" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/685819689/celery/utils/log.py" />
+      <jump line="17" column="26" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task.py" />
+      <jump line="38" column="24" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task.py" />
+      <jump line="0" column="62" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task.py" />
+      <jump line="7" column="118" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task.py" />
+      <jump line="28" column="4" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="4" column="8" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task.py" />
+      <jump line="3" column="11" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task_2.py" />
+      <jump line="10" column="7" filename="E:/projects/collectors/learn_python/test/test_pickle_write.py" />
+      <jump line="1616" column="4" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/pickle.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/pickle.py" />
+      <jump line="36" column="3" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="3" column="10" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="37" column="9" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="11" column="9" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/call_task.py" />
+      <jump line="5" column="20" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/beat_task.py" />
+      <jump line="29" column="4" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="7" column="75" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/define_queue.py" />
+      <jump line="47" column="4" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="47" column="34" filename="E:/projects_zzlion/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="54" column="0" filename="E:/projects_zzlion/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="16" column="42" filename="E:/projects/collectors/learn_python/test/test_pformat.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/pprint.py" />
+      <jump line="0" column="8" filename="E:/projects/collectors/learn_python/lixiong/learn_celery/get_start/tasks.py" />
+      <jump line="27" column="24" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/threading_test.py" />
+      <jump line="12" column="22" filename="$USER_HOME$/.PyCharm2019.3/system/python_stubs/210939091/_thread.py" />
+      <jump line="41" column="23" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="0" column="0" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/learn_Future.py" />
+      <jump line="7" column="25" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_rlock.py" />
+      <jump line="11" column="0" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" />
+      <jump line="7" column="16" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" />
+      <jump line="5" column="13" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition_graceful.py" />
+      <jump line="7" column="0" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition_graceful.py" />
+      <jump line="36" column="10" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" />
+      <jump line="240" column="22" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="38" column="15" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" />
+      <jump line="27" column="10" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" />
+      <jump line="10" column="12" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" />
+      <jump line="217" column="21" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="83" column="9" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="38" column="24" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="28" column="4" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" />
+      <jump line="30" column="12" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/.PyCharm2019.3/system/python_stubs/210939091/_thread.py" />
+      <jump line="288" column="26" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="33" column="28" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="28" column="15" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition_graceful.py" />
+      <jump line="194" column="8" filename="$USER_HOME$/.PyCharm2019.3/system/python_stubs/210939091/_collections.py" />
+      <jump line="422" column="6" filename="$USER_HOME$/.PyCharm2019.3/system/python_stubs/210939091/itertools.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="424" column="6" filename="$USER_HOME$/.PyCharm2019.3/system/python_stubs/210939091/itertools.py" />
+      <jump line="347" column="29" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="0" column="0" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_without_lock_but_acquire.py" />
+      <jump line="863" column="20" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="783" column="13" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" />
+      <jump line="2" column="55" filename="E:/projects/collectors/learn_python/lixiong/learn_mutil_thread/learn_semaphore.py" />
+      <jump line="38" column="0" filename="E:/projects/collectors/learn_python/lixiong/learn_mutil_thread/learn_semaphore.py" />
+      <jump line="8" column="0" filename="E:/projects/collectors/learn_python/lixiong/learn_mutil_thread/learn_semaphore.py" />
+      <jump line="7" column="15" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_semaphore.py" />
+      <jump line="0" column="0" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_event.py" />
+      <jump line="8" column="21" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_priority_queue.py" />
+      <jump line="358" column="0" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/typing.py" />
+      <jump line="15" column="15" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_priority_queue.py" />
+      <jump line="10" column="6" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_priority_queue.py" />
+      <jump line="951" column="15" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/dataclasses.py" />
+      <jump line="40" column="8" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_queue.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" />
+      <jump line="320" column="4" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Im5hbWUiCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxfdGFyZ2V0XD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>num_worker_threads</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Im5hbWUiCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHEgPSBxdWV1ZS5RdWV1ZSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxfdGFyZ2V0XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxfdGFyZ2V0XD4=</last-pattern>
+      <last-replace>.</last-replace>
+      <last-substitute>\/</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
