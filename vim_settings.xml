@@ -133,11 +133,10 @@
       <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/typing.py" timestamp="1586009778430">
         <mark key="'" line="358" column="0" />
       </file>
-      <file name="E:/projects/my_web/my_web/settings.py" timestamp="1587260373103">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="29" />
-        <mark key="^" line="40" column="29" />
-        <mark key="." line="40" column="28" />
+      <file name="E:/projects/my_web/my_web/settings.py" timestamp="1587263180720">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_priority_queue.py" timestamp="1586009935040">
         <mark key="'" line="10" column="6" />
@@ -146,11 +145,12 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="E:/projects/my_web/my_web/urls.py" timestamp="1587260532800">
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="27" column="58" />
-        <mark key="^" line="27" column="58" />
-        <mark key="." line="27" column="57" />
+      <file name="E:/projects/my_web/my_web/urls.py" timestamp="1587262689530">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="47" />
+        <mark key="^" line="23" column="47" />
+        <mark key="." line="23" column="46" />
       </file>
       <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" timestamp="1586002742378">
         <mark key="'" line="783" column="13" />
@@ -196,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/concurrent_futures.py" />
-      <jump line="42" column="20" filename="E:/tk-learn-2020/pa/lx/chapter11/multiprocess_test.py" />
       <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/multiprocess_test.py" />
       <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/progress_queue.py" />
       <jump line="72" column="19" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/process_queue.py" />
@@ -296,15 +294,17 @@
       <jump line="5" column="7" filename="E:/projects/my_web/knowledge/views.py" />
       <jump line="6" column="28" filename="E:/projects/my_web/knowledge/views.py" />
       <jump line="14" column="25" filename="E:/projects/my_web/knowledge/views.py" />
+      <jump line="23" column="15" filename="E:/projects/my_web/my_web/urls.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/remote_sources/210939091/685819689/rest_framework/schemas/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdyZXN0X2ZyYW1ld29ya19zd2FnZ2VyJywK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>API</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyU2VyaWFsaXplclw+</text>
@@ -313,33 +313,33 @@
         <text>num_worker_threads</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICdyZXN0X2ZyYW1ld29ya19zd2FnZ2VyJywK</text>
+      </register>
+      <register name="2" type="2">
         <text>————————————————
 版权声明：本文为CSDN博主「程序员同行者」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/sinat_41622641/article/details/81636682</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text>print('hi')</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Im5hbWUiCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHEgPSBxdWV1ZS5RdWV1ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHEgPSBxdWV1ZS5RdWV1ZSgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
