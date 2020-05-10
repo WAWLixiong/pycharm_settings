@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDx3aGlsZVw+</entry>
         <entry encoding="base64">XDx0cnlcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhZGRcPg==</entry>
         <entry encoding="base64">XDxkdW1wXD4=</entry>
         <entry encoding="base64">XDxfdGFyZ2V0XD4=</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -92,14 +92,58 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1587045784588">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/projects/collectors/.idea/httpRequests/http-requests-log.http" timestamp="1587044930379">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1586003744358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/myconfig/vim_windows/_vimrc" timestamp="1589077278746">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_priority_queue.py" timestamp="1586009935040">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
+      <file name="E:/projects/my_web/my_web/urls.py" timestamp="1587262689530">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="47" />
+        <mark key="^" line="23" column="47" />
+        <mark key="." line="23" column="46" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" timestamp="1586002742378">
+        <mark key="'" line="783" column="13" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_event.py" timestamp="1586007669759">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+      </file>
+      <file name="E:/myconfig/.gitignore" timestamp="1589076861370">
+        <mark key="'" line="99" column="24" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/dataclasses.py" timestamp="1586009972876">
+        <mark key="'" line="951" column="15" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" timestamp="1586011137151">
+        <mark key="'" line="320" column="4" />
+      </file>
       <file name="E:/projects/collectors/learn_python/test_env.py" timestamp="1587201843640">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="13" />
         <mark key="^" line="20" column="0" />
-      </file>
-      <file name="/start_script.py" timestamp="1587045784588">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/projects/collectors/.env" timestamp="1587045341795">
         <mark key="[" line="0" column="5" />
@@ -109,26 +153,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1587195588606">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/projects/collectors/.idea/httpRequests/http-requests-log.http" timestamp="1587044930379">
-        <mark key="[" line="9" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1586003744358">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition.py" timestamp="1586002690988">
-        <mark key="'" line="30" column="12" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="8" />
-        <mark key="^" line="41" column="42" />
-        <mark key="." line="31" column="8" />
-      </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_condition_graceful.py" timestamp="1585995156641">
-        <mark key="'" line="28" column="15" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="30" column="9" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_semaphore.py" timestamp="1586006998011">
         <mark key="'" line="7" column="15" />
@@ -140,45 +164,23 @@
       <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/typing.py" timestamp="1586009778430">
         <mark key="'" line="358" column="0" />
       </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_priority_queue.py" timestamp="1586009935040">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="15" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+      <file name="E:/projects/my_web/my_web/settings.py" timestamp="1587263180720">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/threading.py" timestamp="1586002742378">
-        <mark key="'" line="783" column="13" />
+      <file name="E:/projects/my_web/knowledge/views.py" timestamp="1587261306400">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="25" />
       </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_rlock.py" timestamp="1585837913831">
-        <mark key="'" line="7" column="25" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-      </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/lock_test.py" timestamp="1585836853564">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="32" />
-        <mark key="^" line="25" column="6" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_event.py" timestamp="1586007669759">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-      </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_without_lock_but_acquire.py" timestamp="1585996701813">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/dataclasses.py" timestamp="1586009972876">
-        <mark key="'" line="951" column="15" />
+      <file name="E:/projects/my_web/knowledge/serializer.py" timestamp="1587261191747">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="66" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_queue.py" timestamp="1586011119309">
         <mark key="'" line="40" column="8" />
@@ -186,13 +188,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" timestamp="1586011137151">
-        <mark key="'" line="320" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="418" column="24" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/685819689/threadpool.py" />
-      <jump line="255" column="13" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/685819689/threadpool.py" />
       <jump line="4" column="12" filename="E:/tk-learn-2020/pa/lx/chapter11/concurrent_futures.py" />
       <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/concurrent_futures.py" />
       <jump line="90" column="0" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/concurrent_futures.py" />
@@ -291,48 +288,50 @@
       <jump line="77" column="8" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" />
       <jump line="83" column="0" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" />
       <jump line="320" column="4" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" />
+      <jump line="17" column="5" filename="E:/myconfig/.gitignore" />
+      <jump line="99" column="24" filename="E:/myconfig/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>print('hi')</text>
+        <text encoding="base64">Y29sb3JzY2hlbWUK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdGFyZ2V0XD4=</text>
+        <text>git</text>
       </register>
       <register name="0" type="4">
         <text>num_worker_threads</text>
       </register>
       <register name="1" type="2">
-        <text>print('hi')</text>
+        <text encoding="base64">Y29sb3JzY2hlbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Im5hbWUiCg==</text>
+        <text>print('hi')</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Im5hbWUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHEgPSBxdWV1ZS5RdWV1ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHEgPSBxdWV1ZS5RdWV1ZSgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -341,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfdGFyZ2V0XD4=</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdGFyZ2V0XD4=</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>\/</last-substitute>
       <last-dir>1</last-dir>
