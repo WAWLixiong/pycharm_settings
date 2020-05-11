@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aGlsZVw+</entry>
-        <entry encoding="base64">XDx0cnlcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxyZWFkeVw+</entry>
         <entry encoding="base64">XDxBd2FpdGFibGVcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxkdW1wXD4=</entry>
         <entry encoding="base64">XDxfdGFyZ2V0XD4=</entry>
         <entry>git</entry>
+        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
+        <entry encoding="base64">XDxMT0dHRVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -95,11 +95,37 @@
       <file name="/start_script.py" timestamp="1587045784588">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/projects/collectors/learn_python/test_env.py" timestamp="1587201843640">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="E:/projects/collectors/.env" timestamp="1587045341795">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587195588606">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/projects/collectors/.idea/httpRequests/http-requests-log.http" timestamp="1587044930379">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1586003744358">
+      <file name="/Python Console" timestamp="1589208576983">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_mutil_thread/learn_thread_condation.py" timestamp="1589209582939">
+        <mark key="'" line="69" column="30" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/typing.py" timestamp="1586009778430">
+        <mark key="'" line="358" column="0" />
+      </file>
+      <file name="E:/projects/my_web/my_web/settings.py" timestamp="1587263180720">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="E:/myconfig/vim_windows/_vimrc" timestamp="1589077278746">
         <mark key="[" line="2" column="0" />
@@ -120,52 +146,6 @@
         <mark key="^" line="23" column="47" />
         <mark key="." line="23" column="46" />
       </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_event.py" timestamp="1586007669759">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-      </file>
-      <file name="E:/myconfig/.gitignore" timestamp="1589076861370">
-        <mark key="'" line="99" column="24" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/dataclasses.py" timestamp="1586009972876">
-        <mark key="'" line="951" column="15" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" timestamp="1586011137151">
-        <mark key="'" line="320" column="4" />
-      </file>
-      <file name="E:/projects/collectors/learn_python/test_env.py" timestamp="1587201843640">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="0" />
-      </file>
-      <file name="E:/projects/collectors/.env" timestamp="1587045341795">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587195588606">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_semaphore.py" timestamp="1586006998011">
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="17" column="12" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/typing.py" timestamp="1586009778430">
-        <mark key="'" line="358" column="0" />
-      </file>
-      <file name="E:/projects/my_web/my_web/settings.py" timestamp="1587263180720">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="E:/projects/my_web/knowledge/views.py" timestamp="1587261306400">
         <mark key="'" line="14" column="25" />
         <mark key="[" line="6" column="25" />
@@ -179,21 +159,29 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/remote_sources/210939091/-1506120976/concurrent/futures/_base.py" timestamp="1589209816759">
+        <mark key="'" line="325" column="16" />
+      </file>
+      <file name="E:/myconfig/.gitignore" timestamp="1589076861370">
+        <mark key="'" line="99" column="24" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/dataclasses.py" timestamp="1586009972876">
+        <mark key="'" line="951" column="15" />
+      </file>
       <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/practice/test_queue.py" timestamp="1586011119309">
         <mark key="'" line="40" column="8" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" timestamp="1586011137151">
+        <mark key="'" line="320" column="4" />
+      </file>
+      <file name="E:/projects/collectors/learn_python/lixiong/learn_concurrent/learn_concurent.py" timestamp="1589208748955">
+        <mark key="'" line="22" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="12" filename="E:/tk-learn-2020/pa/lx/chapter11/concurrent_futures.py" />
-      <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/concurrent_futures.py" />
-      <jump line="90" column="0" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/concurrent_futures.py" />
-      <jump line="42" column="20" filename="E:/tk-learn-2020/pa/lx/chapter11/multiprocess_test.py" />
-      <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/multiprocess_test.py" />
-      <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/progress_queue.py" />
-      <jump line="72" column="19" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/process_queue.py" />
       <jump line="44" column="21" filename="E:/projects/collectors/lean_python/lixiong/learn_mutil_thread/multiprocess_test.py" />
       <jump line="6" column="16" filename="E:/tk-learn-2020/pa/lx/chapter11/progress_test.py" />
       <jump line="0" column="0" filename="E:/tk-learn-2020/pa/lx/chapter11/progress_test.py" />
@@ -287,6 +275,13 @@
       <jump line="320" column="4" filename="$USER_HOME$/.PyCharm2019.3/system/remote_sources/210939091/-1506120976/queue.py" />
       <jump line="17" column="5" filename="E:/myconfig/.gitignore" />
       <jump line="99" column="24" filename="E:/myconfig/.gitignore" />
+      <jump line="22" column="24" filename="E:/projects/collectors/learn_python/lixiong/learn_concurrent/learn_concurent.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/remote_sources/210939091/-1506120976/concurrent/futures/_base.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/remote_sources/210939091/-1506120976/concurrent/futures/_base.py" />
+      <jump line="504" column="16" filename="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/remote_sources/210939091/-1506120976/concurrent/futures/_base.py" />
+      <jump line="325" column="16" filename="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/remote_sources/210939091/-1506120976/concurrent/futures/_base.py" />
+      <jump line="16" column="28" filename="E:/projects/collectors/learn_python/lixiong/learn_mutil_thread/learn_thread_condation.py" />
+      <jump line="69" column="30" filename="E:/projects/collectors/learn_python/lixiong/learn_mutil_thread/learn_thread_condation.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,7 +293,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text encoding="base64">XDxMT0dHRVJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>num_worker_threads</text>
@@ -337,12 +332,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>git</last-search>
+      <last-search encoding="base64">XDxMT0dHRVJcPg==</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
+      <last-pattern encoding="base64">XDxMT0dHRVJcPg==</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>\/</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
